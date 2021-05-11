@@ -1,0 +1,1108 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51965
+Successfully changed project path to: /Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+/Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-10 16:27:51.368 Unity[3100:137474] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2021-05-10 16:27:51.368 Unity[3100:137474] Metal devices available: 2
+2021-05-10 16:27:51.368 Unity[3100:137474] 0: AMD Radeon Pro 5500M (high power)
+2021-05-10 16:27:51.368 Unity[3100:137474] 1: Intel(R) UHD Graphics 630 (low power)
+2021-05-10 16:27:51.368 Unity[3100:137474] Using device AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000422 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 27.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.235 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 28.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.2 MB.
+System memory in use after: 140.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2118.
+Total: 1.887327 ms (FindLiveObjects: 0.165105 ms CreateObjectMapping: 0.053282 ms MarkObjects: 1.591949 ms  DeleteObjects: 0.076168 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX
+  artifactKey: Guid(5cc09769b32be47fb945542d06021e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX using Guid(5cc09769b32be47fb945542d06021e52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c2444953eb6decf81538a6dabf81d0') in 0.005022 seconds
+  Import took 0.007547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.162399 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png
+  artifactKey: Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png using Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb602cf2662d548e9674cd13a7a4d08') in 0.978903 seconds
+  Import took 0.982302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.899691 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png
+  artifactKey: Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png using Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36315a69c134d764ff7be268284e2a80') in 0.008635 seconds
+  Import took 0.011315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.194562 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png
+  artifactKey: Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png using Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86c67bb0e8537f8640e58851e5a3436') in 0.315658 seconds
+  Import took 0.319488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.868162 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png
+  artifactKey: Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png using Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a98a047efbd9eaab52d2e20f40c3287') in 0.015893 seconds
+  Import took 0.018814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.351374 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png
+  artifactKey: Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/VFX/exp2_0.png using Guid(2891a75d8e14e4179aa68369c6ea6314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c64f73159a33c6d60a8aa80c90695e4') in 0.038018 seconds
+  Import took 0.041219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.141249 seconds.
+  path: Assets/Galaxy Hunter/Art/Animation/exp2_0_0.controller
+  artifactKey: Guid(9df101a5d53ba4c549544c64932ab30d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Animation/exp2_0_0.controller using Guid(9df101a5d53ba4c549544c64932ab30d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be34bf0929096ac583b73d775f4ccfd') in 1.009877 seconds
+  Import took 1.013023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Galaxy Hunter/Art/Animation/Blast_1.anim
+  artifactKey: Guid(6952f517fcf644a4e86428f84f489a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Animation/Blast_1.anim using Guid(6952f517fcf644a4e86428f84f489a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3dcf2318fb4558352192ff8d5297094') in 0.286262 seconds
+  Import took 0.288599 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.2 MB.
+System memory in use after: 157.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2131.
+Total: 1.820289 ms (FindLiveObjects: 0.201332 ms CreateObjectMapping: 0.061887 ms MarkObjects: 1.509310 ms  DeleteObjects: 0.046128 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 453.731609 seconds.
+  path: Assets/Galaxy Hunter/Prefabs
+  artifactKey: Guid(1249205dae8094bb3a7378155b648853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs using Guid(1249205dae8094bb3a7378155b648853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5eabd3d337f11aa412683a826e74d41') in 0.003854 seconds
+  Import took 0.006544 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.4 MB.
+System memory in use after: 157.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 1.751586 ms (FindLiveObjects: 0.198979 ms CreateObjectMapping: 0.058469 ms MarkObjects: 1.447190 ms  DeleteObjects: 0.045865 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.125365 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '7cedf956a642a91885780bf97f8b9937') in 0.282157 seconds
+  Import took 0.286164 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.9 MB.
+System memory in use after: 162.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2144.
+Total: 1.763283 ms (FindLiveObjects: 0.199237 ms CreateObjectMapping: 0.067470 ms MarkObjects: 1.450328 ms  DeleteObjects: 0.044198 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.683209 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'a9bb718c9b86f0d7c72201e1bd58b004') in 0.059343 seconds
+  Import took 0.063139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.834257 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '328bb7e5cba79b5b8043271642791615') in 0.012097 seconds
+  Import took 0.015209 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000508 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.2 MB.
+System memory in use after: 162.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2149.
+Total: 1.983125 ms (FindLiveObjects: 0.217115 ms CreateObjectMapping: 0.070047 ms MarkObjects: 1.643281 ms  DeleteObjects: 0.051301 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.429721 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '24a7239043073ace3dc38099cdcc4e42') in 0.060117 seconds
+  Import took 0.064023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.166797 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'd9d0a974b78fcaa466bf99eba1164d71') in 0.015734 seconds
+  Import took 0.018990 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000512 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.5 MB.
+System memory in use after: 162.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2154.
+Total: 2.169589 ms (FindLiveObjects: 0.229504 ms CreateObjectMapping: 0.070271 ms MarkObjects: 1.819865 ms  DeleteObjects: 0.048300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.155857 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'ad001625771841687b37e10c54bb8ca0') in 0.057692 seconds
+  Import took 0.061478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.641409 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'e27fdf29d16dd4e27fbfe52d10a5a89b') in 0.008635 seconds
+  Import took 0.011727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.407452 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '190ef15d89359639ec3f6a812b0295c9') in 0.010014 seconds
+  Import took 0.012948 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000536 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.7 MB.
+System memory in use after: 162.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2159.
+Total: 1.722210 ms (FindLiveObjects: 0.194139 ms CreateObjectMapping: 0.050899 ms MarkObjects: 1.428626 ms  DeleteObjects: 0.047449 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.758356 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c92aaf207c5d70aeb8f4df17b2be104') in 0.055829 seconds
+  Import took 0.059273 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.0 MB.
+System memory in use after: 163.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2164.
+Total: 2.119682 ms (FindLiveObjects: 0.232630 ms CreateObjectMapping: 0.071856 ms MarkObjects: 1.766936 ms  DeleteObjects: 0.047063 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.566011 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The AnimationClip 'Blast_1' used by the Animation component 'Explosion_1' must be marked as Legacy.
+
+The AnimationClip 'Blast_1' used by the Animation component 'Explosion_1(Clone)' must be marked as Legacy.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The AnimationClip 'Blast_1' used by the Animation component 'Explosion_1(Clone)AnimatorPreview' must be marked as Legacy.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '2569e20d4bb6e1f6dbae4712687555c7') in 0.057502 seconds
+  Import took 0.060209 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000507 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.2 MB.
+System memory in use after: 163.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2169.
+Total: 1.808049 ms (FindLiveObjects: 0.197699 ms CreateObjectMapping: 0.075757 ms MarkObjects: 1.485269 ms  DeleteObjects: 0.048090 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.235867 seconds.
+  path: Assets/Galaxy Hunter/Art/Animation/Blast_1.anim
+  artifactKey: Guid(6952f517fcf644a4e86428f84f489a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Animation/Blast_1.anim using Guid(6952f517fcf644a4e86428f84f489a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96eef313ab452fc8b9480a023329480a') in 0.012045 seconds
+  Import took 0.014928 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000505 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.4 MB.
+System memory in use after: 163.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2173.
+Total: 1.808139 ms (FindLiveObjects: 0.352790 ms CreateObjectMapping: 0.055924 ms MarkObjects: 1.353873 ms  DeleteObjects: 0.044131 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.244684 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '766387aa368dfda88e1f4a54c3451cca') in 0.054668 seconds
+  Import took 0.057534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002474 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '766387aa368dfda88e1f4a54c3451cca') in 0.008650 seconds
+  Import took 0.011112 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000456 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.7 MB.
+System memory in use after: 163.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2178.
+Total: 2.012892 ms (FindLiveObjects: 0.201165 ms CreateObjectMapping: 0.055206 ms MarkObjects: 1.705160 ms  DeleteObjects: 0.050023 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.435879 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '72ef97a99b24b31a303188a4c92f911b') in 0.053861 seconds
+  Import took 0.056761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.746429 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'b555bfa0cac64baf3c5f1cce8ada4eea') in 0.008340 seconds
+  Import took 0.011038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600459 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'e8d502c849a87007eff5ead1506e867c') in 0.010432 seconds
+  Import took 0.013124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.935970 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:635)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:601)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+The Animator Controller (exp2_0_0) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:590)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorUtility.cs:604)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:97)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:91)
+UnityEditor.GameObjectInspector:GetPreviewData () (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:623)
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/GameObjectInspector.cs:868)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:33)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: '93f9e23640e08d76806c95bd6b08877a') in 0.011861 seconds
+  Import took 0.014613 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000512 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.0 MB.
+System memory in use after: 164.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2183.
+Total: 1.771620 ms (FindLiveObjects: 0.266420 ms CreateObjectMapping: 0.111819 ms MarkObjects: 1.323307 ms  DeleteObjects: 0.069349 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000571 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.2 MB.
+System memory in use after: 164.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2187.
+Total: 1.935171 ms (FindLiveObjects: 0.208495 ms CreateObjectMapping: 0.057623 ms MarkObjects: 1.616288 ms  DeleteObjects: 0.051596 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.384456 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26987eb67e07dddbaaaeb586db2ed9ad') in 0.055581 seconds
+  Import took 0.058432 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000509 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.4 MB.
+System memory in use after: 164.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2192.
+Total: 1.800676 ms (FindLiveObjects: 0.194025 ms CreateObjectMapping: 0.051613 ms MarkObjects: 1.504860 ms  DeleteObjects: 0.049071 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.251027 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762ce8e075519825c2a30cc0357975a6') in 0.058694 seconds
+  Import took 0.062465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174158 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e48e9c3aa8779eefa915e0a04a5ecb3b') in 0.010855 seconds
+  Import took 0.014000 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1666 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.7 MB.
+System memory in use after: 164.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 1.951880 ms (FindLiveObjects: 0.237004 ms CreateObjectMapping: 0.067601 ms MarkObjects: 1.593305 ms  DeleteObjects: 0.052765 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.721850 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Player.prefab
+  artifactKey: Guid(3067e47c582f844b7bea6803d60b138c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Player.prefab using Guid(3067e47c582f844b7bea6803d60b138c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6ed57cbfad1961f080c1376c8addb6') in 0.059152 seconds
+  Import took 0.063436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6362.591110 seconds.
+  path: Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs
+  artifactKey: Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs using Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc211b41be36045e5fbbbd69d80df41') in 0.474911 seconds
+  Import took 0.477881 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.6 MB.
+System memory in use after: 171.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2203.
+Total: 1.729336 ms (FindLiveObjects: 0.191103 ms CreateObjectMapping: 0.051560 ms MarkObjects: 1.433518 ms  DeleteObjects: 0.052024 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 222.223786 seconds.
+  path: Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs
+  artifactKey: Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs using Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e9e07747381b544865c391a77d88d5') in 0.005559 seconds
+  Import took 0.008343 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.7 MB.
+System memory in use after: 171.8 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2207.
+Total: 2.212345 ms (FindLiveObjects: 0.241991 ms CreateObjectMapping: 0.074359 ms MarkObjects: 1.842188 ms  DeleteObjects: 0.052224 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.9 MB.
+System memory in use after: 172.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2211.
+Total: 1.794008 ms (FindLiveObjects: 0.206552 ms CreateObjectMapping: 0.056458 ms MarkObjects: 1.481742 ms  DeleteObjects: 0.048104 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.262963 seconds.
+  path: Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs
+  artifactKey: Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Scripts/Core/DestroyTimer.cs using Guid(936f9ebd15b614729a8ae8d0a585d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e9650969277ab95de580a1de28e84d') in 0.006454 seconds
+  Import took 0.010050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.144850 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02acb3b9e8e86ffba69f0e8b5151fa8c') in 0.057174 seconds
+  Import took 0.059864 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000474 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1667 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2216.
+Total: 1.773222 ms (FindLiveObjects: 0.182109 ms CreateObjectMapping: 0.054032 ms MarkObjects: 1.478871 ms  DeleteObjects: 0.057098 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 526.399253 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Enemy.prefab
+  artifactKey: Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Enemy.prefab using Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52261fbb0ca9257d276d8d10afe0bf9') in 0.055992 seconds
+  Import took 0.058731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.225351 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Enemy.prefab
+  artifactKey: Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Enemy.prefab using Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52261fbb0ca9257d276d8d10afe0bf9') in 0.013748 seconds
+  Import took 0.017954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 641.091702 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Enemy.prefab
+  artifactKey: Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Enemy.prefab using Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b95148abed25a03882e7f04d3321d8') in 0.019956 seconds
+  Import took 0.023108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.633809 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Enemy.prefab
+  artifactKey: Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Enemy.prefab using Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5333d81462e4aad9828e610c585a1081') in 0.009005 seconds
+  Import took 0.011867 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

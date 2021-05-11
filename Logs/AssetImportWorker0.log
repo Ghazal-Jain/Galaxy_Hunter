@@ -1,0 +1,596 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50632
+Successfully changed project path to: /Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+/Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/Ghazal/Documents/The Stick Crafter/Unity Projects/Galaxy_Hunter/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-11 13:42:59.853 Unity[3127:45681] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2021-05-11 13:42:59.853 Unity[3127:45681] Metal devices available: 2
+2021-05-11 13:42:59.853 Unity[3127:45681] 0: AMD Radeon Pro 5500M (high power)
+2021-05-11 13:42:59.853 Unity[3127:45681] 1: Intel(R) UHD Graphics 630 (low power)
+2021-05-11 13:42:59.853 Unity[3127:45681] Using device AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56127
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000448 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 31.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.710 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 30.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.952 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1715 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.0 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2163.
+Total: 1.954479 ms (FindLiveObjects: 0.188181 ms CreateObjectMapping: 0.050083 ms MarkObjects: 1.617083 ms  DeleteObjects: 0.098244 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '456b4fcbce70d64f8112c0acf609f258') in 1.082427 seconds
+  Import took 1.085523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.331512 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '394de68b3a8cb99b7424074cbcaa2a1a') in 0.003590 seconds
+  Import took 0.006441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBackground.asset
+  artifactKey: Guid(313c776588c76427bae4a22f8b3e8086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBackground.asset using Guid(313c776588c76427bae4a22f8b3e8086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5993368b533e696aa7e71bb38fe14a28') in 0.409416 seconds
+  Import took 0.412034 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1707 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.6 MB.
+System memory in use after: 153.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2171.
+Total: 2.909572 ms (FindLiveObjects: 0.349440 ms CreateObjectMapping: 0.135514 ms MarkObjects: 2.356373 ms  DeleteObjects: 0.066545 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 118.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.060 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.5 MB.
+System memory in use after: 197.4 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 3213.
+Total: 6.280340 ms (FindLiveObjects: 0.610076 ms CreateObjectMapping: 0.292317 ms MarkObjects: 2.727059 ms  DeleteObjects: 2.648979 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 712.597500 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(8a2da713289374991897e8a70a4e73a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/UniversalRenderPipelineAsset.asset using Guid(8a2da713289374991897e8a70a4e73a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e725f067ac34c943c51e5b449f255a') in 0.046762 seconds
+  Import took 0.051824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(c51c8d85ca6bd424bb6e3e498e4bfdb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/UniversalRenderPipelineAsset_Renderer.asset using Guid(c51c8d85ca6bd424bb6e3e498e4bfdb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105026d09cc7658d2684d38c1e00afab') in 0.026697 seconds
+  Import took 0.031073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.046085 seconds.
+  path: Assets/LWRP
+  artifactKey: Guid(f60d40dbacc954f9cb15aa4184444b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LWRP using Guid(f60d40dbacc954f9cb15aa4184444b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee170b508c5695e67e7d5f68b20e18f0') in 0.001544 seconds
+  Import took 0.005514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.930320 seconds.
+  path: Assets/LWRP/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(8ea9b80e968ed4380899155ceddd1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LWRP/UniversalRenderPipelineAsset.asset using Guid(8ea9b80e968ed4380899155ceddd1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2550834a7cfc1c4308adf70aac39ee50') in 0.025831 seconds
+  Import took 0.030790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/LWRP/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(514c41d36dba148f5b31848ee98ee513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LWRP/UniversalRenderPipelineAsset_Renderer.asset using Guid(514c41d36dba148f5b31848ee98ee513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecd4959370b0bc819a3bf3f94162fbc') in 0.025134 seconds
+  Import took 0.029958 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Switching render pipeline 00000000000000000000000000000000 -> 8ea9b80e968ed4380899155ceddd1b46
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.6 MB.
+System memory in use after: 203.7 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 3285.
+Total: 4.823271 ms (FindLiveObjects: 0.379181 ms CreateObjectMapping: 0.180021 ms MarkObjects: 2.291179 ms  DeleteObjects: 1.971648 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.246713 seconds.
+  path: Assets/LWRP/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(514c41d36dba148f5b31848ee98ee513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LWRP/UniversalRenderPipelineAsset_Renderer.asset using Guid(514c41d36dba148f5b31848ee98ee513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50dcdd9c37b1dbc8fb2028f18d277539') in 0.011567 seconds
+  Import took 0.015780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/LWRP/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(8ea9b80e968ed4380899155ceddd1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LWRP/UniversalRenderPipelineAsset.asset using Guid(8ea9b80e968ed4380899155ceddd1b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f23b8c0b875e9c59b620bcbca25ec4c') in 0.002582 seconds
+  Import took 0.005808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3941.140559 seconds.
+  path: Assets/Galaxy Hunter/Art
+  artifactKey: Guid(7e6a52adeb61c4d0ca755cb535e565d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art using Guid(7e6a52adeb61c4d0ca755cb535e565d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451cff7d34a9eeedf8fec7255607675a') in 0.001108 seconds
+  Import took 0.005773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.682785 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Enemy.prefab
+  artifactKey: Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Enemy.prefab using Guid(7f5dd41ce1c70428f8ea5bc7c4c8c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2384ea86bcb2b464cd2c123f0a0a89') in 0.164350 seconds
+  Import took 0.168895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab
+  artifactKey: Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Explosion_1.prefab using Guid(a2bc11a0f4eb24e19b0fc4bb7f07099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9ee1f456e45de8f5a2fbf07d61a2f4') in 0.012583 seconds
+  Import took 0.016313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Galaxy Hunter/Prefabs/Player.prefab
+  artifactKey: Guid(3067e47c582f844b7bea6803d60b138c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Prefabs/Player.prefab using Guid(3067e47c582f844b7bea6803d60b138c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baacb87df6b946da44c5e98a15db6ddd') in 0.014835 seconds
+  Import took 0.018555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.592151 seconds.
+  path: Assets/Galaxy Hunter/Art/Materials/Test.shadergraph
+  artifactKey: Guid(cc6cb2faa56784629b45c241a149db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Materials/Test.shadergraph using Guid(cc6cb2faa56784629b45c241a149db30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a058185e47b0741a6e37c845d7fe022f') in 0.150164 seconds
+  Import took 0.154496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4817.643552 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/enemyShip.png
+  artifactKey: Guid(d9d3b38cc713c43b79610ea29f92d387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/enemyShip.png using Guid(d9d3b38cc713c43b79610ea29f92d387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f717ea51ac6cfbb60872071f77fdeda') in 0.944984 seconds
+  Import took 0.949426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/laserGreenShot.png
+  artifactKey: Guid(7be342194dcca4860802d073acf4d402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/laserGreenShot.png using Guid(7be342194dcca4860802d073acf4d402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1300da4267cc5985e65987aadfb3d5a8') in 0.010266 seconds
+  Import took 0.014112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/laserRed.png
+  artifactKey: Guid(daae191a2dcad42c28c8b3a6531f3e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/laserRed.png using Guid(daae191a2dcad42c28c8b3a6531f3e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463f89a92fa7e9385de5c38a5103b4fc') in 0.011845 seconds
+  Import took 0.015513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/meteorSmall.png
+  artifactKey: Guid(99c5de0a0623042bcbd088db2b2aae09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/meteorSmall.png using Guid(99c5de0a0623042bcbd088db2b2aae09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff7018573fd1c6d20497c2777eebb08') in 0.006719 seconds
+  Import took 0.010138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/laserGreen.png
+  artifactKey: Guid(ca16451614c8b4583a18535f1946bff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/laserGreen.png using Guid(ca16451614c8b4583a18535f1946bff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5d18484df20634006bcf3122d42fbe') in 0.005931 seconds
+  Import took 0.009477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/playerLeft.png
+  artifactKey: Guid(a2928eac0700b49e9904a14c2e197770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/playerLeft.png using Guid(a2928eac0700b49e9904a14c2e197770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39f771f95cb54da387bdff574ef8671') in 0.011823 seconds
+  Import took 0.015510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/life.png
+  artifactKey: Guid(0c3296dcbee00431fa95e53082a479f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/life.png using Guid(0c3296dcbee00431fa95e53082a479f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8394efe3aec3693e1598b34af55825') in 0.015934 seconds
+  Import took 0.019581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/meteorBig.png
+  artifactKey: Guid(05003eeeff99445768c174f549948844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/meteorBig.png using Guid(05003eeeff99445768c174f549948844) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f4f92628e779eb62f8888d58dc75d8') in 0.008985 seconds
+  Import took 0.012549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/player.png
+  artifactKey: Guid(99b7fa8442ccf4f6f98b3f2dc077367f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/player.png using Guid(99b7fa8442ccf4f6f98b3f2dc077367f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90992f69ae229797f9cafdae8653a851') in 0.006714 seconds
+  Import took 0.010163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38997ea0ff40301e332daeecf9817c7') in 0.003034 seconds
+  Import took 0.006238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/laserRedShot.png
+  artifactKey: Guid(5191a66076faf4f169550a6603cc4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/laserRedShot.png using Guid(5191a66076faf4f169550a6603cc4bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2079e719ba1f31124462a7acb810f98') in 0.006601 seconds
+  Import took 0.010149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/playerDamaged.png
+  artifactKey: Guid(405ec576c223d49129b97bf6f5347080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/playerDamaged.png using Guid(405ec576c223d49129b97bf6f5347080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca2a57a4f0ca4db1e419409f874dfce') in 0.006434 seconds
+  Import took 0.010367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/enemyUFO.png
+  artifactKey: Guid(1d52e548922af4c3abb77ffa942a9ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/enemyUFO.png using Guid(1d52e548922af4c3abb77ffa942a9ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3187185ec8d4fcb08223dda9cbc7f5') in 0.007256 seconds
+  Import took 0.011115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.222609 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.asset
+  artifactKey: Guid(f13e43323499447c7ac9a51cb7d81580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.asset using Guid(f13e43323499447c7ac9a51cb7d81580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6986e727503536411db60742bb24eebd') in 0.017482 seconds
+  Import took 0.021901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d6909400fc66bf4c1e01e38019903d') in 0.003325 seconds
+  Import took 0.007146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.561346 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b72239dc8831843f0fedaf8ab84802') in 0.003443 seconds
+  Import took 0.007826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBig.asset
+  artifactKey: Guid(30fc5ccb55246406b97a56680a2adfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBig.asset using Guid(30fc5ccb55246406b97a56680a2adfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea00a1427ce5c4c4e44e27fedc2b5632') in 0.016714 seconds
+  Import took 0.020423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.358353 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starSmall.asset
+  artifactKey: Guid(628c9096c0df942c5b22d8b6bf6b1003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starSmall.asset using Guid(628c9096c0df942c5b22d8b6bf6b1003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5855677e23e6b74f15a426d7a0f0cca9') in 0.008636 seconds
+  Import took 0.012862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.851724 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab
+  artifactKey: Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Environment.prefab using Guid(cedba270a88774dd6bce60ddd231775a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1096d07599e8ecba3c0bcd571b6e3dba') in 0.003248 seconds
+  Import took 0.007980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.888991 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb5aeb7a615b2ab404dc7f938d1ebf8') in 0.009665 seconds
+  Import took 0.013887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039059 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb5aeb7a615b2ab404dc7f938d1ebf8') in 0.020340 seconds
+  Import took 0.024341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.978540 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b480ccf59c85f62b50224b75fb907d1') in 0.016171 seconds
+  Import took 0.020265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starSmall.png
+  artifactKey: Guid(befb3cfe5ff904896a334ad204997ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starSmall.png using Guid(befb3cfe5ff904896a334ad204997ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc05a822c3e67e97b882b0b4d14420b') in 0.005499 seconds
+  Import took 0.009078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/nebula.png
+  artifactKey: Guid(e512ad8a043544978ac14d127bce2de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/nebula.png using Guid(e512ad8a043544978ac14d127bce2de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1499885ed328950d2cab0a0e52393db9') in 0.006756 seconds
+  Import took 0.010316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/speedLine.png
+  artifactKey: Guid(633af7debe32a4932953e53d129fb7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/speedLine.png using Guid(633af7debe32a4932953e53d129fb7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e8b6d0820919a27166e6c7508299b5') in 0.005640 seconds
+  Import took 0.009336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBig.png
+  artifactKey: Guid(4010fe2ddb089495fa32b4607a17dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBig.png using Guid(4010fe2ddb089495fa32b4607a17dfcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2ed11a9b1e6544530a1abe63fa8333') in 0.006450 seconds
+  Import took 0.010333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png
+  artifactKey: Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png using Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce9e73a47bd123e06b4e65b8e63b8a9') in 0.006962 seconds
+  Import took 0.010708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.066008 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette
+  artifactKey: Guid(9d4494da436f84ad9af064746e9b072b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette using Guid(9d4494da436f84ad9af064746e9b072b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d528ca125d5c1e3c835fcbf3d73a2fc') in 0.001031 seconds
+  Import took 0.005323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083041 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/backgroundColor.asset
+  artifactKey: Guid(9410f5fbf3e594c6a9f6635010169f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/backgroundColor.asset using Guid(9410f5fbf3e594c6a9f6635010169f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c011d5b3ee571b4bb174b6e9fab4a5') in 0.008903 seconds
+  Import took 0.012838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/nebula.asset
+  artifactKey: Guid(c8b7247ae5b894cffb40fc7fc354a4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/nebula.asset using Guid(c8b7247ae5b894cffb40fc7fc354a4c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec9d9da902952325787d5cd93b4da73') in 0.006486 seconds
+  Import took 0.010165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/speedLine.asset
+  artifactKey: Guid(63a53eac6113a4171ac67f1fb50018da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/speedLine.asset using Guid(63a53eac6113a4171ac67f1fb50018da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f767eb059ddea7f7a7bcd487d3ee6ad0') in 0.006704 seconds
+  Import took 0.010446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/starBackground.asset
+  artifactKey: Guid(ae7a16f4c8dad462faecd7c9d124e8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/starBackground.asset using Guid(ae7a16f4c8dad462faecd7c9d124e8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7ad888a3cf158e58220945c2c0b2d9d') in 0.007202 seconds
+  Import took 0.010954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/Environment.prefab
+  artifactKey: Guid(8745942fac1af474a979bfa34e85b4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/Environment.prefab using Guid(8745942fac1af474a979bfa34e85b4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07cec69a96b67c85a3b31c7a10c0f8dd') in 0.003328 seconds
+  Import took 0.006896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/starBig.asset
+  artifactKey: Guid(d4e60c7c36e264532b407fe9f70ad217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/starBig.asset using Guid(d4e60c7c36e264532b407fe9f70ad217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ebdbd20fbe421e2b088d97d3d1ebb0') in 0.011623 seconds
+  Import took 0.015422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/starSmall.asset
+  artifactKey: Guid(da885c2b9777143a5bdb93fcbcdcf23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/starSmall.asset using Guid(da885c2b9777143a5bdb93fcbcdcf23c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2796e7121f78a90bcab0637e6b1876') in 0.006978 seconds
+  Import took 0.010683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.391552 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/Palette/Environment.prefab
+  artifactKey: Guid(8745942fac1af474a979bfa34e85b4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/Palette/Environment.prefab using Guid(8745942fac1af474a979bfa34e85b4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7e8d8a850014b4cd6747fbece8a5dc') in 0.003930 seconds
+  Import took 0.008115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.333130 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65bebe68e5db62b706d560d82b294dd') in 0.010176 seconds
+  Import took 0.014293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png
+  artifactKey: Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png using Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f380bd80df4e2ae0a8d6e7fed39a217a') in 0.018492 seconds
+  Import took 0.022532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.795917 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png
+  artifactKey: Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/starBackground.png using Guid(f2ebebc4789f34a48a49e5b0d118fbb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43bf395b07a705cca76bc7a4d42361d') in 0.015666 seconds
+  Import took 0.020268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.667337 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d426dbe2692cc38acee01e8d46ea325') in 0.009280 seconds
+  Import took 0.013487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.294187 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8218098c399e169b21cb57711f8fd6') in 0.017583 seconds
+  Import took 0.021682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.473525 seconds.
+  path: Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png
+  artifactKey: Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxy Hunter/Art/Textures/Background/backgroundColor.png using Guid(fcf34fbab0e8b4a1ca78d96fc816c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa9c7b4e8f1960f7a08b2da4274df99') in 0.016794 seconds
+  Import took 0.020943 seconds .
+
